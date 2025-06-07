@@ -1,6 +1,6 @@
 # EXPRESIONES REGULARES
 
-##Repositorio de la complementaria
+## Repositorio de la complementaria
 
 En este repositorio se anexa la informacion y la aplicacion practica de las expresiones regulares vistas en el aula
 
